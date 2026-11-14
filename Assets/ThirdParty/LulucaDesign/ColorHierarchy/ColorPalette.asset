@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f80ba9ae8e66e97498de54ac50040467, type: 3}
+  m_Name: ColorPalette
+  m_EditorClassIdentifier: Assembly-CSharp::RodrigoDesign.ColorPalette
+  colorDesigns:
+  - keyChar: _manager
+    textColor: {r: 0.801, g: 0.801, b: 0.801, a: 1}
+    backgroundColor: {r: 0.33333334, g: 0.6392157, b: 0.38781127, a: 1}
+    textAlignment: 0
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: c6f661b55461be74f8dee73e11cf97b0, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _groupmanager
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0.21797545, g: 0.41799998, b: 0.2538773, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 0}
+    useCustomIconPlacement: 1
+  - keyChar: _system
+    textColor: {r: 0.801, g: 0.801, b: 0.801, a: 1}
+    backgroundColor: {r: 0.42846084, g: 0.33463725, b: 0.638, a: 1}
+    textAlignment: 0
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: bf91f2d0faf4a65488306af952f7932b, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _groupsystem
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0.34171158, g: 0.26647237, b: 0.511, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 0}
+    useCustomIconPlacement: 1
+  - keyChar: _light
+    textColor: {r: 0.248, g: 0.248, b: 0.248, a: 1}
+    backgroundColor: {r: 1, g: 0.75603735, b: 0.5707547, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: 7a42fdfce7e64a346afd5005a23216ad, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _grouplight
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor: {r: 0.695, g: 0.52601963, b: 0.3979216, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 0}
+    useCustomIconPlacement: 1
+  - keyChar: _env
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0, g: 0.3956146, b: 0.8018868, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: df9c0cf459be5aa41b5b7f7c0e005e47, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _groupenv
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0, g: 0.28119734, b: 0.566, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 0}
+    useCustomIconPlacement: 1
+  - keyChar: _entitie
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0.6792453, g: 0, b: 0, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: 46566638cf923f9448786d0936d861eb, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _groupplayer
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0.4716981, g: 0, b: 0, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: 46566638cf923f9448786d0936d861eb, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _groupenemies
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: 39e82043256763b4b99d1e47c7171fb4, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _groupnpcs
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0.396, g: 0, b: 0, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: 40a37d12a6c0a5b44877b0680b6c46cf, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _cam
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0, g: 0.5019608, b: 0.5019608, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: 204def6048f37074ea2f079abf1f39cf, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _groupcam
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0, g: 0.3, b: 0.3, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: 980d7b9d80c98df418d504df1e0dc0d6, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _canva
+    textColor: {r: 0.199, g: 0.199, b: 0.199, a: 1}
+    backgroundColor: {r: 0.809, g: 0.6824525, b: 0, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: 86ad7bd82bab8f140af4a935d54a516c, type: 3}
+    useCustomIconPlacement: 1
+  - keyChar: _groupui
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0.532, g: 0.44935927, b: 0, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 0}
+    useCustomIconPlacement: 1
+  - keyChar: _sound
+    textColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    backgroundColor: {r: 0, g: 0.18550754, b: 0.53333336, a: 1}
+    textAlignment: 3
+    fontStyle: 1
+    icon: {fileID: 2800000, guid: d2a04327ee45c244c98c7952f32e76c6, type: 3}
+    useCustomIconPlacement: 1

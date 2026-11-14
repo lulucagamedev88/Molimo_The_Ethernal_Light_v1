@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5cc48b0f02844bf5bb6fbd65bfba741f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 356424
+  packageName: Audio Tools - Audio Clip Editor, Trimmer & Normalizer for Unity
+  packageVersion: 1.2.0
+  assetPath: Assets/AudioTools/Reuse/Common/Runtime/Timing/TimeStep.cs
+  uploadId: 1012922

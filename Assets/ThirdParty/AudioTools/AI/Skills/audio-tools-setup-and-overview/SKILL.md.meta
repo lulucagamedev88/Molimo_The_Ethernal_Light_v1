@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fcd5a21ded5b415ebcc32c27c86fdab3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 356424
+  packageName: Audio Tools - Audio Clip Editor, Trimmer & Normalizer for Unity
+  packageVersion: 1.2.0
+  assetPath: Assets/AudioTools/AI/Skills/audio-tools-setup-and-overview/SKILL.md
+  uploadId: 1012922

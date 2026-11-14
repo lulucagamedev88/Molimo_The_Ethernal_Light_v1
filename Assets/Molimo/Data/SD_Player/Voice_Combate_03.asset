@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21e5b90121d324d45aa5896fdeed0917, type: 3}
+  m_Name: Voice_Combate_03
+  m_EditorClassIdentifier: Assembly-CSharp::MolimoByLulucaGameDev.SoundData
+  soundName: Voice_Combate_03
+  clip: {fileID: 8300000, guid: 42da4417e56a2864fad45f8b162048cb, type: 3}
+  volume: 0.15
+  pitch: 1
+  pitchRandomness: 0
+  loop: 0
+  priority: 128
+  mixerGroup: {fileID: 8857662384629766181, guid: abf55aad91d52914bac71276984b1b9c, type: 2}
+  spatialBlend: 0
+  minDistance: 1
+  maxDistance: 50
+  enablePitchDescend: 0
+  descendStartPitch: 1.8
+  descendEndPitch: 0.15
+  descendDuration: 3.5
+  descendPitchCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  descendFadeOutDuration: 0.8
+  descendUseLowPass: 1
+  descendLowPassStart: 18000
+  descendLowPassEnd: 450
